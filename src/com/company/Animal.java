@@ -35,6 +35,10 @@ public class Animal {
         System.out.println("stam");
     }
 
+    public static void something(){
+
+    }
+
     @Override
     public String toString() {
         return "This animal's name is " + name;
